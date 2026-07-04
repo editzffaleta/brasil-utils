@@ -1,0 +1,13 @@
+[
+  {
+    "name": "import { cpf }",
+    "path": "dist/index.mjs",
+    "import": "{ cpf }",
+    "limit": "1 kB"
+  },
+  {
+    "name": "biblioteca completa",
+    "path": "dist/index.mjs",
+    "limit": "3 kB"
+  }
+]

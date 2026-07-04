@@ -7,12 +7,12 @@
 [![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://www.npmjs.com/package/brasil-utils?activeTab=dependencies)
 [![license](https://img.shields.io/npm/l/brasil-utils.svg)](./LICENSE)
 
-Validação e formatação de dados brasileiros — **CPF, CNPJ, CEP, telefone, placa de veículo e Pix**
+Validação e formatação de dados brasileiros **CPF, CNPJ, CEP, telefone, placa de veículo e Pix**
 (chave + BR Code "copia e cola"). Escrita em TypeScript, **sem nenhuma dependência de runtime**,
 com tipagem forte e testada de ponta a ponta.
 
 - 🇧🇷 Cobre os dados do dia a dia de qualquer app brasileiro
-- 📦 **Zero dependências** — nada entra no seu `node_modules` além do essencial
+- 📦 **Zero dependências** nada entra no seu `node_modules` além do essencial
 - 🌳 Tree-shakeable (ESM + CJS + tipos), funciona em Node, browser e edge
 - ✅ Sem exceções na validação: `isValid` devolve `boolean`, `format` é leniente
 
@@ -86,7 +86,7 @@ confere o CRC.
 
 ## Por que zero dependências?
 
-Dados brasileiros são cálculo puro — dígito verificador, máscara, checagem de formato. Nada disso
+Dados brasileiros são cálculo puro, dígito verificador, máscara, checagem de formato. Nada disso
 precisa de rede nem de biblioteca externa. Sem dependências, você não herda vulnerabilidades de
 terceiros, o bundle fica minúsculo e a superfície de manutenção é sua.
 

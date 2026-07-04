@@ -1,6 +1,6 @@
 {
   "name": "brasil-utils",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Validação e formatação de dados brasileiros (CPF, CNPJ, CEP, telefone, Pix, placa) — zero dependências.",
   "type": "module",
   "sideEffects": false,

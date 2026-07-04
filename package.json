@@ -69,5 +69,14 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "author": "Bruno Faleta (https://github.com/editzffaleta)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/editzffaleta/brasil-utils.git"
+  },
+  "homepage": "https://github.com/editzffaleta/brasil-utils#readme",
+  "bugs": {
+    "url": "https://github.com/editzffaleta/brasil-utils/issues"
   }
 }

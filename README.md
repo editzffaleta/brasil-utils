@@ -1,5 +1,6 @@
 # brasil-utils
 
+[![CI](https://github.com/editzffaleta/brasil-utils/actions/workflows/ci.yml/badge.svg)](https://github.com/editzffaleta/brasil-utils/actions/workflows/ci.yml)
 [![npm version](https://img.shields.io/npm/v/brasil-utils.svg)](https://www.npmjs.com/package/brasil-utils)
 [![npm downloads](https://img.shields.io/npm/dm/brasil-utils.svg)](https://www.npmjs.com/package/brasil-utils)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/brasil-utils.svg)](https://bundlephobia.com/package/brasil-utils)
